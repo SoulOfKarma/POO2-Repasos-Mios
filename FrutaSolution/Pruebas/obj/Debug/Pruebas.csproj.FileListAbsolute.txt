@@ -1,0 +1,8 @@
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\bin\Debug\Pruebas.exe.config
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\bin\Debug\Pruebas.exe
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\bin\Debug\Pruebas.pdb
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\bin\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\bin\Debug\Biblioteca.pdb
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\obj\Debug\Pruebas.csprojResolveAssemblyReference.cache
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\obj\Debug\Pruebas.exe
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Pruebas\obj\Debug\Pruebas.pdb

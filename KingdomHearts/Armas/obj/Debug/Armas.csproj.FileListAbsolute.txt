@@ -1,0 +1,16 @@
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\bin\Debug\Armas.exe.config
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\bin\Debug\Armas.exe
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\bin\Debug\Armas.pdb
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\bin\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\bin\Debug\Biblioteca.pdb
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.csprojResolveAssemblyReference.cache
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\MainWindow.g.cs
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\App.g.cs
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas_MarkupCompile.cache
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas_MarkupCompile.lref
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\MainWindow.baml
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.g.resources
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.Properties.Resources.resources
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.csproj.GenerateResource.Cache
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.exe
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Armas\obj\Debug\Armas.pdb

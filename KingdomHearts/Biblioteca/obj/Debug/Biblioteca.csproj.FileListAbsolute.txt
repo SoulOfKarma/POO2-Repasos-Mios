@@ -1,0 +1,5 @@
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Biblioteca\obj\Debug\Biblioteca.pdb

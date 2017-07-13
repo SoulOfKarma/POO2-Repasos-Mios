@@ -1,0 +1,8 @@
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\bin\Debug\Test.exe.config
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\bin\Debug\Test.exe
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\bin\Debug\Test.pdb
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\bin\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\bin\Debug\Biblioteca.pdb
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\obj\Debug\Test.exe
+c:\users\soul\documents\visual studio 2015\Projects\KingdomHearts\Test\obj\Debug\Test.pdb

@@ -1,0 +1,16 @@
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\bin\Debug\Vista.exe.config
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\bin\Debug\Vista.exe
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\bin\Debug\Vista.pdb
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\bin\Debug\Biblioteca.dll
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\bin\Debug\Biblioteca.pdb
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\MainWindow.g.cs
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\App.g.cs
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista_MarkupCompile.cache
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista_MarkupCompile.lref
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\MainWindow.baml
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.g.resources
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.exe
+c:\users\soul\documents\visual studio 2015\Projects\FrutaSolution\Vista\obj\Debug\Vista.pdb
