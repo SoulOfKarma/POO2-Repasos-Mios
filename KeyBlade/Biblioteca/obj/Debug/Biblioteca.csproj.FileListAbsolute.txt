@@ -1,0 +1,5 @@
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Biblioteca\bin\Debug\Biblioteca.dll
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Biblioteca\obj\Debug\Biblioteca.dll
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Biblioteca\obj\Debug\Biblioteca.pdb

@@ -1,0 +1,16 @@
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\bin\Debug\Vista.exe.config
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\bin\Debug\Vista.exe
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\bin\Debug\Vista.pdb
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\bin\Debug\Biblioteca.dll
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\bin\Debug\Biblioteca.pdb
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.csprojResolveAssemblyReference.cache
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\MainWindow.g.cs
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\App.g.cs
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista_MarkupCompile.cache
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista_MarkupCompile.lref
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\MainWindow.baml
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.g.resources
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.Properties.Resources.resources
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.csproj.GenerateResource.Cache
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.exe
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Vista\obj\Debug\Vista.pdb

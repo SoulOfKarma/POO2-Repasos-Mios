@@ -1,0 +1,8 @@
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\bin\Debug\Test.exe.config
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\bin\Debug\Test.exe
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\bin\Debug\Test.pdb
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\bin\Debug\Biblioteca.dll
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\bin\Debug\Biblioteca.pdb
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\obj\Debug\Test.exe
+c:\users\ricar\onedrive\documentos\visual studio 2015\Projects\KeyBlade\Test\obj\Debug\Test.pdb
